@@ -70,7 +70,6 @@ Please open a PR to be added.
 - [Cognitran](http://www.cognitran.com/employment-opportunities/) | Essex, UK / Szczecin, Poland / Detroit, MI | Skype/phone interview followed by pair programming.
 - [Cognitive Logic](https://www.cognitivelogic.com/) | Basingstoke, UK | On-site unsupervised exercise & discussion.
 - [Credit Kudos](https://creditkudos.com/jobs/) | London, UK | Take-home project and pair programming via Skype or on-site.
-- [Crowdstrike](https://jobs.jobvite.com/careers/crowdstrike/jobs) | US (Multiple), UK (London), Remote | [UI Team] Multiple interviews onsite or remote as appropriate followed by small take-home project.
 - [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
 
 ## D - F
@@ -81,7 +80,6 @@ Please open a PR to be added.
 - [Detroit Labs](https://www.detroitlabs.com/careers) | Detroit, MI | Our technical interview starts with a take-home assignment that we will look at during the interview. You'll walk us though your thought process, add functionality if applicable to the interview, and talk about your experience. We believe that showing us your work in a practical setting is more telling of your abilities and what you will bring to the table, than writing code on a whiteboard.
 - [DG-i](https://www.dg-i.net/) | Cologne, Germany | Take-home project and/or discussion on-site about past experiences
 - [DockYard](http://dockyard.com) | Boston, MA & Remote | A series of interviews, going deep into past experience
-- [door2door](http://door2door.io) | Berlin, Germany | Take home challenge + on-site interview + trial day
 - [Draft Fantasy](https://docs.google.com/document/d/1fC_-liTPpYQOoE_5iKj0O3AwSdPggQGnOsjUKahfbkQ/edit?usp=sharing) | Tel Aviv, Israel | Talk about past experience and what the developer has actually built as well as pair programming or a programming exercise.
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
@@ -133,7 +131,6 @@ Please open a PR to be added.
 - [Librato](https://www.librato.com/jobs) | SF, Boston, Austin, Vancouver CA, Krakow PL | Take home coding project, conversational technical interviews on-site
 - [Listium](https://listium.com/jobs) | Melbourne, Australia | Design and code proof of concept features with the team
 - [LittleThings](https://www.littlethings.com/careers.html) | New York, NY | Take home code challenge, Discussion
-- [Locaweb](https://www.locaweb.com.br/carreira/) | São Paulo, Brazil | Skype interview, take-home project and discussion on-site
 - [Lyft](https://lyft.com/jobs) | San Francisco, CA | Pair programming on-site with your own personal laptop
 - [Lyoness Austria GmbH](http://www.lyoness-corporate.com/de-AT/Karriere/Jobangebote/) | Graz, Austria | Take-Home project, discussion on-site
 
@@ -161,9 +158,7 @@ Please open a PR to be added.
 - [NoRedInk](https://www.noredink.com/jobs) | San Francisco, CA | Take-home exercise & pair programming session
 - [NoviCap](https://novicap.com/en/careers.html) | Barcelona, Spain | Takehome exercise & discussion on-site
 - [npm, Inc](https://npmjs.com/jobs) | Oakland, CA/remote | No technical challenges. Just interview conversations.
-- [numberly](https://www.numberly.com) | Paris, France | Series of interviews, that go over technical background, past experiences and cultural knowledge
 - [Omada Health](https://www.omadahealth.com/jobs) | San Francisco, CA | Take home exercise and/or pair programming session.
-- [Ontame.io](https://ontame.io) | Copenhagen, Denmark | Take home exercise and specific role discussion
 - [Opbeat](https://opbeat.com/jobs#seniorbackendengineer) | Copenhagen, Denmark | Pairing on a real-world problem
 - [Opendoor](https://www.opendoor.com/jobs) | CA, AZ, NV, TX | Pairing & systems design
 - [Ostmodern](http://www.ostmodern.co.uk) | London, UK | Take-home exercise & discussion on-site
@@ -175,11 +170,12 @@ Please open a PR to be added.
 - [Pagar.me](https://pagar.me) | São Paulo, BR | Skype interview, on-site pairing task and-or real world problem solving process / presentation
 - [PassFort](https://passfort.com/about#jobs) | London, UK | Skype interview, and on-site pairing task
 - [PayByPhone](https://www.paybyphone.com/careers) | Vancouver, BC, CA | Remote programming interview, on-site "meet the team"
+- [PeerStreet](https://info.peerstreet.com/careers/) | Los Angeles, CA | Phone, take home project & on-site to meet the team
 - [Pivotal Labs](https://pivotal.io/careers/engineering) | HQ: San Francisco, International | Remote Pairing, and full day on-site pairing
 - [Pluralsight](https://www.pluralsight.com/careers) | UT, CA, MA, FL | Takehome exercise & pair programming session
 - [Poki](http://jobs.poki.com) | Amsterdam, the Netherlands | Pair programming on-site w/ two engineers where we focus on teamwork, googling relevant documentation and fixing things together.
 - [Popstand](http://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
-- [Pragma Team](https://pragma.team/talent) | Sydney AU | Engineering Consultancy And Delivery - Takehome exercise & discussion
+ - [Pragma Team](https://pragma.team/talent) | Sydney AU | Engineering Consultancy And Delivery - Takehome exercise & discussion
 - [PremiumBeat](https://www.premiumbeat.com/careers) | Montreal, Canada | Discussion and general, high level questions
 - [PromptWorks](https://www.promptworks.com/jobs) | Philadelphia, PA | Take-home project, pair programming, discussion on-site
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
@@ -243,7 +239,6 @@ Please open a PR to be added.
 
 ## Y - \#
 - [Yoyo Wallet](http://yoyowallet.com/) | London, UK | Take home code challenge, discussion of the code challenge, and general, high level questions
-- [1000mercis group](http://www.1000mercis.com/#!/careers/?lang=en) | Paris, France | Series of interviews, that go over technical background, past experiences and cultural knowledge
 - [8th Light](https://8thlight.com/) | Chicago, London, Los Angeles, New York | Take home code challenge, discussion, pair programming session
 - [500Tech](https://500Tech.com) | Tel Aviv, Israel | Pair programming on a laptop in working env
 
